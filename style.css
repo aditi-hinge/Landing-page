@@ -1,0 +1,258 @@
+/*Header from here*/
+
+.header {
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 17px 100px;
+    background-color: rgb(65, 11, 92);
+    border: 2px solid white;
+    }
+  
+  ul {
+    display: flex;
+    gap: 30px;
+    list-style:none;
+    }
+  
+  .logo {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: rgb(238, 229, 229);
+    }
+  
+  a {
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: 900;
+    }
+
+  /*this is for hover on the link*/
+  a:hover {
+      color: rgb(255, 222, 33);
+  }
+  
+  /*Body one from here*/
+
+  .body-one{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 40px 100px;
+    background-color: rgb(255, 232, 189);
+    border: 2px solid white;
+    }
+  
+  .body-one-left{
+    width:420px;
+    height:200px;
+    padding-bottom:40px;
+    flex-wrap: nowrap;
+    }
+  
+  .body-one-intro{
+    font-weight:bold;
+    font-size:25px;
+  }
+  
+  .body-one-descp{
+    margin-top:8px;
+    font-size:18px;
+   }
+  
+  .body-one-signup {
+    padding:3px 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    height:35px;
+    width:100px;
+    font-size: 17px;
+    font-weight: bolder;
+    background-color:rgb(155, 88, 189);
+    color: white;
+    border: 2px solid white;
+    cursor: pointer;
+    }
+
+  .body-one-signup:hover {
+    color:rgb(255, 222, 33);
+  }
+  .body-one-signup:active {
+    background-color: rgb(255, 222, 33);
+    color:rgb(65, 11, 92);
+    box-shadow: 2px 2px #666;
+    transform: translateY(4px);
+  }
+
+  .intro-picture {
+    width: 450px;
+    height: auto;
+    border: 2px solid white;
+    }
+  
+  /*Body two from here*/
+  
+  .body-two {
+      display:flex;
+      flex-direction: column;
+      align-items:center;
+      justify-content:center;
+      height: 300px;
+      background-color: whitesmoke;
+      padding:40px 0px;
+      border: 2px solid white;
+      }
+      
+.b2-intro {
+        text-align:center;
+        font-weight:bold;
+        padding-top: 40px;
+        font-size: 23px;
+        font-weight: 800;
+      }
+      
+.body-two-contents {
+        display:flex;
+        padding: 0 60px;
+        margin-top: 50px;
+        gap:30px;
+        justify-content:center;
+  }
+      
+.b2-picture {
+        display:flex;
+        justify-content: center;
+        align-items:center;
+        height: auto;
+        width: 200px;
+        border-radius:10px;
+        border: 2px solid white;
+      }
+
+  .b2-text {
+        text-align: center;
+        padding-top: 10px;
+        font-size: 20px;
+        font-weight: 700;
+        padding-bottom: 45px;
+    }
+
+/*Body three from here*/
+
+  .body-three {
+    height:250px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    background-color: rgb(184, 184, 204);
+    border: 2px solid white;    
+    padding: 50px 100px;
+
+  }
+  
+  .body-three-content {
+    width:620px;
+    margin-bottom: 10px;
+    padding: 16px 55px;
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: 500;
+    font-family:monospace;
+    color: white;
+  }
+  
+  .body-three-credit{
+    padding-left:450px;
+    font-weight:bold;
+  }
+  
+  /*Body four from here*/
+  
+  * {
+    font-family: 'Cutive Mono';
+    }
+
+  .body-four {
+    height:300px;
+    background-color: rgb(255, 232, 189);
+    border: 2px solid white;
+    align-items:center;
+    display:flex;
+    }
+  
+  .body-four-content {
+    margin: 100px 200px;
+    height: 100px;
+    background-color: whitesmoke;
+    display:flex;
+    justify-content:space-between;
+    padding:16px 64px;
+    align-items:center;
+    border-radius: 10px;
+    border: 2px solid rgb(184, 184, 204);
+   }
+  
+  .b4-left {
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
+  }
+
+  .one {
+    font-size: 20px;
+  }
+
+  .b4-right {
+    border-radius: 9px;
+    height:25px;
+    width:90px;
+    margin-left: 40px;
+  }
+  
+  /*Footer from here*/
+  .footer {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 100px;
+    background-color: burlywood;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(65, 11, 92);
+    border: 2px solid white;
+    color: white;
+    font-size: 19px;
+    font-weight: 700;
+    /*background-color:
+        */
+  }
+  
+  body {
+    /* padding-left: 100px;
+    padding-right: 100px;*/
+      
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

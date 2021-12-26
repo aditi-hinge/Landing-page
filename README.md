@@ -15,20 +15,19 @@ Very happy with how this turned out.
 
 
 CREDITS
->logo
-A logo was made by me from a free logo generator website called Hatchful by Shopify (https://hatchful.shopify.com)
+>logo made by me from a free logo generator website called Hatchful by Shopify (https://hatchful.shopify.com)
 
->Group kittens
+>Group kittens by
 Pixabay from Pexels
 
->Lazy cat
+>Lazy cat by
 Ihsan Adityawarman from Pexels
 
->Angry cat
+>Angry cat by
 Skitterphoto from Pexels
 
->Sad cat
+>Sad cat by
 Vadim B from Pexels
 
->Bread cat
+>Bread cat by
 Anna Shvets from Pexels

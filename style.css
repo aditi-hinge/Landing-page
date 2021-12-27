@@ -44,7 +44,8 @@
 
   .body-one{
     display:flex;
-    justify-content:space-between;
+    justify-content:center;
+    gap: 100px;
     align-items:center;
     padding: 40px 100px;
     background-color: rgb(255, 232, 189);

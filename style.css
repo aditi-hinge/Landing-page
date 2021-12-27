@@ -183,7 +183,7 @@
     background-color: rgb(255, 232, 189);
     border: 2px solid white;
     align-items:center;
-    justify-contents: center;
+    justify-content: center;
     display:flex;
     }
   

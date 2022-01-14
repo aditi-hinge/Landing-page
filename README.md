@@ -1,5 +1,7 @@
 Project 2: The Landing Project
 
+Live preview: https://aditi-hinge.github.io/Landing-page/
+
 For this project, I decided to make a website about cats and cat lovers, simply called "Cat Lovers".
 This webpage introduces the general content of the website to the users.
 
